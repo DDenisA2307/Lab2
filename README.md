@@ -1,3 +1,4 @@
+```
 denis@DDA-VirtualBox:~/Ansible$ ansible-playbook nginx.yml
 
 PLAY [NGINX | Install and configure NGINX] *************************************
@@ -38,3 +39,4 @@ denis@DDA-VirtualBox:~/Ansible$ curl http://192.168.56.2:8080
 
 	body {
 ...
+```
